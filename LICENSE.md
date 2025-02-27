@@ -1,6 +1,6 @@
 # Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)
 
-这件作品采用知识共享署名-非商业性使用 4.0 国际许可协议进行许可。
+这件作品基于Unreal Engine Third Person Template制作，其中的原创部分采用知识共享署名-非商业性使用 4.0 国际许可协议进行许可。
 
 您可以自由地：
 - 分享 — 在任何媒介或格式中复制、发行本作品
